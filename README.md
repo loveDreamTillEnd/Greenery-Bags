@@ -210,7 +210,7 @@
 <!-- Hero Section -->
 <section class="hero">
   <img 
-    src="https://drive.google.com/uc?export=download&id=1yWW_-2uR37TEf2TzbvdWqnhrJDcDJ5Z5" 
+    src="https://i.postimg.cc/SxsL7NB6/z7471539768867-80e144df418abf5b5fbaca8fc5a2ffdc.jpg" 
     alt="Hai chiếc túi giấy hạt giống handmade từ bã mía, vỏ trứng và bã giấy — có thể trồng lại thành cây xanh" 
     class="floating"
     loading="lazy"
