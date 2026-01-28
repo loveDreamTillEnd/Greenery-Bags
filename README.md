@@ -214,7 +214,7 @@
     alt="Hai chiếc túi giấy hạt giống handmade từ bã mía, vỏ trứng và bã giấy — có thể trồng lại thành cây xanh" 
     class="floating"
     loading="lazy"
-    width="400"
+    width="500"
     height="500"
   >
   <h2>Chạm vào tương lai xanh cùng chúng mình!</h2>
