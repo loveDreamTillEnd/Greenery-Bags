@@ -207,12 +207,19 @@
     <p>Túi giấy có hạt giống – Mua túi, trồng cây, cứu hành tinh!</p>
   </header>
 
-  <!-- Hero Section -->
-  <section class="hero">
-    <img src="https://via.placeholder.com/400x500/f9f5f0/4a4a4a?text=Túi+Giấy+Hạt+Giống" alt="Túi giấy hạt giống" class="floating">
-    <h2>Chạm vào tương lai xanh cùng chúng mình!</h2>
-    <p>Giấy từ bã mía, vỏ trứng, bã giấy thừa — thân thiện môi trường & có thể trồng lại thành cây xanh!</p>
-  </section>
+<!-- Hero Section -->
+<section class="hero">
+  <img 
+    src="https://drive.google.com/uc?export=download&id=1yWW_-2uR37TEf2TzbvdWqnhrJDcDJ5Z5" 
+    alt="Hai chiếc túi giấy hạt giống handmade từ bã mía, vỏ trứng và bã giấy — có thể trồng lại thành cây xanh" 
+    class="floating"
+    loading="lazy"
+    width="400"
+    height="500"
+  >
+  <h2>Chạm vào tương lai xanh cùng chúng mình!</h2>
+  <p>Giấy từ bã mía, vỏ trứng, bã giấy thừa — thân thiện môi trường & có thể trồng lại thành cây xanh!</p>
+</section>
 
   <!-- How to Use -->
   <section class="how-to">
